@@ -1,4 +1,4 @@
-public class Algebracalculation {
+public class Payroll {
 
     public static void main(String[] args) {
         int hour = 26;
