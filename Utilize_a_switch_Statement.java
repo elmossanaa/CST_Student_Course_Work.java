@@ -1,5 +1,4 @@
 public class switch_statement {
-
     
     public static void main(String[] args) {
     //if a equals 10 modulus a by 2 and print result to console
