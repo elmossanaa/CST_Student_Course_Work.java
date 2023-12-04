@@ -1,2 +1,2 @@
 # Java_Fundamentals.java
-Java Fundamentals I learned as an Undergraduate student
+As a CST student, files attached are what I learned as an Undergraduate student pursuing a Bachelor of Technology Degree.
