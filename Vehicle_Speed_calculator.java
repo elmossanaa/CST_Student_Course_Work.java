@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
-public class Wordproblems {
+//CST 1201 Assignment
+
+public class Vehicle_Speed_calculator {
+    
     /**The distance a vehicle travels can be calculated as follows:
 Distance = Speed * Time
 * 
